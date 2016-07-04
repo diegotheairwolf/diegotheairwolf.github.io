@@ -3,17 +3,17 @@ title: Diego Moreno
 header-img: img/home-bg.jpg
 email: diego.ms90@gmail.com.com
 copyright_name: Your/Project/Corporate Name
-description: "Write your site description here. It will be used as your sites meta description as well!"
+description: "Diego Moreno Portfolio"
 baseurl: ""
-url: "http://yourdomain.com"
-twitter_username: SBootstrap
-github_username:  davidtmiller
-facebook_username:  IronSummitMedia
+url: "http://diegotheairwolf.github.io"
+twitter_username: diegotheairwolf
+github_username:  diegotheairwolf
+facebook_username:  
 email_username:  your-email@yourdomain.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
-# google_tracking_id:
+google_tracking_id: UA-80201919-1
 
 # Build settings
 markdown: kramdown
