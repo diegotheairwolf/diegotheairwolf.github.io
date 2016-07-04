@@ -25,3 +25,10 @@
         </dd>
     {% endfor %}
 </dl>
+
+<h3 class="section-title">Interests</h3>
+<ul class="interests">
+    {% for interest in site.data.interests %}
+        <li>{{ interest.interest }}</li>
+    {% endfor %}
+</ul>

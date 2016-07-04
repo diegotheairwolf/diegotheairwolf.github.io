@@ -1,6 +1,9 @@
 // @name Resume
 // @description All resume styles
 
+// Default spacing unit
+$spacer: 20px;
+
 dl {
     margin-bottom: $spacer;
 }
@@ -29,6 +32,12 @@ dt, dd {
     .education {
         dt, dd {
             width: 50%;
+        }
+    }
+
+    .interests {
+        ul,li{
+            white-space: nowrap;
         }
     }
 }

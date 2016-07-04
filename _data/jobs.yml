@@ -1,7 +1,19 @@
--   title: Engineering Lead
-    company: Company X
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Manufacturing Engineer
+    company: NANO-MASTER, Inc.
+    period: February 2015 - Present
+    description: Develop LabVIEW software framework for thin film processing systems • Provide customer support, training, and equipment installation • Troubleshoot and improve existing processes for more efficient manufacturing procedures • Create and maintain component BOM and product documentation
 
--   title: Front end developer
-    company: Company Y
-    description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+-   title: Entry Level Validation Engineer Intern
+    company: Cirrus Logic
+    period: January 2013 - August 2014
+    description: Conceptualized and developed test-bench automation software framework for multi-DUT validation tests using LabVIEW • Assisted in the execution of validation tests
+
+-   title: Freelance Scripting
+    company: SXSW, LLC.
+    period: January 2014 - March 2014
+    description: Enhanced film documentation and logistics by developing a tracking system with JavaScript and Google Apps Script
+
+-   title: GDS Lab Services Intern
+    company: Cisco Systems, Inc.
+    period: May 2013 - August 2013
+    description: Supported Cisco’s RSPTG Engineering labs by configuring and deploying virtual machines, PDU’s, switches, servers, and routers • Aided with ordering, shipping, and receiving of lab equipment

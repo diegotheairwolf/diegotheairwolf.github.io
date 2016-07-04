@@ -2,12 +2,17 @@
 # Main Sass file
 ---
 
-// Import all partials from _sass
+// Import just resume partial from _sass
 @import
-    'reset',
-    'layout',
-    'typography',
-    'header',
-    'footer',
     'resume'
 ;
+
+// Import all partials from _sass
+// @import
+//     'reset',
+//     'layout',
+//     'typography',
+//     'header',
+//     'footer',
+//     'resume'
+// ;
