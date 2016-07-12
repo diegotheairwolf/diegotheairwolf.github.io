@@ -9,13 +9,14 @@ url: "http://diegotheairwolf.github.io"
 twitter_username: diegotheairwolf
 github_username:  diegotheairwolf
 facebook_username:  
-email_username:  your-email@yourdomain.com
+email_username:  diego.ms90@gmail.com
 
 # Google Analytics
 # To enable google analytics, uncomment below line with a valid Google Tracking ID
 google_tracking_id: UA-80201919-1
 
 # Build settings
+port: 8080
 markdown: kramdown
 highlighter: rouge
 permalink: pretty

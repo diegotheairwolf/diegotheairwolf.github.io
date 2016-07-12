@@ -4,7 +4,11 @@
 
 // Import just resume partial from _sass
 @import
-    'resume'
+    'reset',
+    'layout',
+    'resume',
+    'typography'
+    
 ;
 
 // Import all partials from _sass
