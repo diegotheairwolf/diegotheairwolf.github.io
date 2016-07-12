@@ -10,6 +10,7 @@ $(function() {
 });
 
 // Contact Form Scripts
+// Not used
 
 $(function() {
 
